@@ -1,0 +1,18 @@
+h1 {
+  background-color: #8080ff;
+  height: 100px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 0px !important;
+}
+
+.ant-table-pagination-right {
+  justify-content: center !important;
+}
+
+.ant-table-thead th {
+  text-align: center !important;
+  background: #eaf1ff !important;
+  border-top: solid 1px #cdd8ed !important;
+}
